@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Typst Editor
+Comment=An application for the COSMIC™ desktop
+Type=Application
+Icon=com.github.benfuddled.typst-editor
+Exec=typst-editor %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
